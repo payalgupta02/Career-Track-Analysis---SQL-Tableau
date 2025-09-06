@@ -29,9 +29,9 @@ Using **SQL** for data preparation and **Tableau** for visualization, the projec
 ---
 
 ### Repository Structure  
-career-track-analysis/
--README.md
--sql: career-track-analysis-with-sql-and-tableau-solved.sql   # Solved SQL script
--data: career_track_completions.csv                           # Final dataset exported for Tableau
--tableau: Career_Track_Analysis.twbx                          # Tableau packaged workbook
--report: Career_Track_Analysis.pdf                            # project writeup
+#### career-track-analysis/
+##### -README.md
+##### -sql: career-track-analysis-with-sql-and-tableau-solved.sql   # Solved SQL script
+##### -data: career_track_completions.csv                           # Final dataset exported for Tableau
+##### -tableau: Career_Track_Analysis.twbx                          # Tableau packaged workbook
+##### -report: Career_Track_Analysis.pdf                            # project writeup
