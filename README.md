@@ -14,7 +14,7 @@ Using **SQL** for data preparation and **Tableau** for visualization, the projec
 - Completion duration & patterns  
 ---
 
-### Key Findings  
+### Key Findings 
 - **Data Analyst track dominates enrollments** compared to BA and DS.  
 - **~80% learners register for only one track**, showing sequential learning preference.  
 - **Seasonal peaks** in enrollments during August and winter breaks.  
